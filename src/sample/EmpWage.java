@@ -10,5 +10,9 @@ public static void main(String[] args) {
 	System.out.println("uc2");
 	
 	System.out.println("last message");
+	System.out.println("conf");
+	
+	
+	
 }
 }
